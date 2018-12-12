@@ -9,7 +9,7 @@ public enum GameMode{
 	makeLevel,
 	levelPrep,
 	inLevel
-}//end of GameMode enum
+}//end of GameMode enusm
 
 public class WordGame : MonoBehaviour {
 	static public WordGame S;
